@@ -1,0 +1,33 @@
+.bg-profile {
+  border-radius: 10px;
+  border: 0px;
+  background-image: url(https://assets.ccbp.in/frontend/react-js/profile-bg.png);
+  background-size: cover;
+  color: black;
+  padding: 10px;
+}
+
+.btn-retry {
+  height: 32px;
+  width: 132px;
+  background-color: #4f46e5;
+  border: 0;
+  border-radius: 10px;
+  color: white;
+}
+
+.bg-retry-card {
+  background-color: black;
+  border-radius: 10px;
+}
+
+.bg-profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+h2 {
+  color: #4f46e5;
+}

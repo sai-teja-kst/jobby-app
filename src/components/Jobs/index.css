@@ -1,0 +1,23 @@
+.bg-jobs {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  color: white;
+}
+
+.bg-filter {
+  height: 100vh;
+  width: 30vw;
+  background-color: black;
+  padding: 5vh;
+}
+
+.bg-emp-label {
+  margin: auto;
+}
+
+.bg-employ-filter {
+  display: flex;
+  flex-direction: column;
+}

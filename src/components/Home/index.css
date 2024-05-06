@@ -1,0 +1,40 @@
+.bg-home {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  color: white;
+}
+
+.bg-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url(https://assets.ccbp.in/frontend/react-js/home-lg-bg.png);
+  background-size: cover;
+  align-items: flex-start;
+  height: 90vh;
+  width: 100vw;
+}
+
+.bg-context {
+  width: 60vw;
+  padding-left: 10vh;
+}
+
+.bg-heading {
+  font-size: 60px;
+}
+
+.bg-para {
+  font-size: 20px;
+}
+
+.btn-find-jobs {
+  height: 40px;
+  width: 132px;
+  background-color: #4f46e5;
+  border: 0;
+  border-radius: 10px;
+  color: white;
+}
